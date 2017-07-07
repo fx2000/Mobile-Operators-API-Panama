@@ -5,9 +5,9 @@
  */
 
 // Session parameters
-$server = '172.22.83.31';
+$server = '123.456.789.10';
 $port = '7032';
-$password = '5616';
+$password = '123456';
 
 // Transaction parameters
 $params = array(
